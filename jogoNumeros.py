@@ -2,7 +2,6 @@ import random
 numero_aleatorio = random.randrange(0, 100)
 minimo = 0
 maximo = 100
-perda = 0
 while True:
     chute = int(input(f"Digite um número entre {minimo} e {maximo}: "))
     if chute < minimo or chute > maximo:
