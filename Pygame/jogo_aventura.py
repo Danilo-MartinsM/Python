@@ -37,7 +37,7 @@ jogo_ativo = True
 # INVULNERABILIDADE
 invulneravel = False
 tempo_invulneravel = 0
-duracao_invulneravel = 1500  # milissegundos
+duracao_invulneravel = 2500  # milissegundos
 
 # Fundo
 fundo_imagem = pygame.image.load("background.png").convert()
